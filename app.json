@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MesCourses",
-    "slug": "MesCourses",
+    "slug": "mescourses",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "21054468-301c-498a-9d17-64b200f4d2a5"
+      }
+    },
+    "owner": "hadji"
   }
 }
